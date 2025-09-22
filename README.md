@@ -1,9 +1,5 @@
 # RAMUS
 
-### Project by Vitaliy Yakovchuk
-
-![Project Image](https://github.com/user-attachments/assets/72c8fcad-d8f1-4bc1-9186-ae4a1f1c9cf2)
-
 **Java-based IDEF0 & DFD Modeler**
 
 <img width="1792" alt="Screenshot 2019-11-18 at 11 14 26" src="https://user-images.githubusercontent.com/2261228/69039713-23c56d00-09f5-11ea-99c5-b6714efe3037.png">
